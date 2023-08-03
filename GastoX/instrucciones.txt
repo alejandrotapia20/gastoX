@@ -1,0 +1,23 @@
+Instrucciones para ejecutar el programa GastoX:
+
+Requerimientos:
+1. Python 3.x: Asegúrate de tener instalada una versión de Python 3 en tu sistema. Puedes descargar Python desde el sitio oficial: https://www.python.org/downloads/
+
+2. Bibliotecas requeridas: El programa utiliza algunas bibliotecas adicionales que necesitas instalar. Puedes instalarlas utilizando el administrador de paquetes pip. Abre una terminal o línea de comandos y ejecuta los siguientes comandos:
+
+   pip install matplotlib
+   # Instala la biblioteca Matplotlib para la generación de gráficos.
+
+Instrucciones de uso:
+1. Descarga el código del programa: Puedes descargar el código del programa desde el repositorio de GitHub: https://github.com/alejandrotapia20/gastoX/tree/master/GastoX.
+
+2. Instala los requerimientos: Asegúrate de haber instalado Python y las bibliotecas requeridas mencionadas anteriormente.
+
+3. Ejecuta el programa: Abre una terminal o línea de comandos, navega al directorio donde tienes el código del programa y ejecuta el siguiente comando:
+
+   python programa_GastoX.py
+
+   Sustituye `programa_GastoX.py` por el nombre del archivo principal del programa si es diferente.
+
+4. Sigue las instrucciones del programa: El programa te guiará a través del registro de usuario, inicio de sesión, ingreso de gastos y generación de informes.
+
